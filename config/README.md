@@ -21,5 +21,8 @@ So Mint system is way more performant then Ubuntu however there are some additio
 8. GIT
 9. Spotify
 10. YubiKey manager
+11. Telegram
+12. Docker
+13. Slack
 
 ### Applets

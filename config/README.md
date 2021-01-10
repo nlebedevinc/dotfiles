@@ -1,6 +1,10 @@
 # Configuration
 This is preparation work to create custom dotfiles describing Linux system for personal use
 
+## Manjaro
+Faced with a problem with XKB initialization on Manajro community versions. To resolve:
+> setxkbmap -model pc105 -layout us,ru -option grp:alt_shift_toggle -option numpad:microsoft
+
 ## Linux Mint
 So Mint system is way more performant then Ubuntu however there are some additional steps for v20 to make it work fine on HiDPI and NVIDIA GRAPHICS
 
